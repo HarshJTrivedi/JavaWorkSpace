@@ -1,4 +1,4 @@
-import java.util.Scanner;
+import java.util.Scanner; /// does it change???
 public class MainClass {
 	public static void main(String args[]) {
 		LinkedList<String> listObj=new LinkedList<String>();
