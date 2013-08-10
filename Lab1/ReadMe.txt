@@ -1,0 +1,1 @@
+Algorithm for Question 1,3 and 4 have been implemented(code is running) in the same files.
